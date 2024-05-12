@@ -1,0 +1,6 @@
+Purpose:
+
+The purpose of this program is to allow the user to input restaurants, list their "style" of menu, and include any notes.  This data is then stored in a SQL database for retrieval.
+
+
+When I am in the office at work, my co-workers and I order lunch often.  We have joked around that we need to keep a spreadsheet of the restaurants we've ordered from, so we can remember things about each one, such as if we enjoyed the food, what menu items were good or bad, unusual hours, etc.  I've tried to take this use case and create a program that perhaps we could utilize at work for fun :)
